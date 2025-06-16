@@ -1,0 +1,20 @@
+<!-- views/user/dashboard.ejs -->
+<%- include('../partials/header') %>
+
+<div class="user-dashboard">
+    <h1>Panel del Usuario</h1>
+    
+    <div class="user-info">
+        <h2>Información Personal</h2>
+        <p><strong>Nombre:</strong> <%= usuario.nombre %></p>
+        <p><strong>Cédula:</strong> <%= usuario.cedula %></p>
+        <p><strong>Cargo:</strong> <%= usuario.cargo %></p>
+        <p><strong>Sede:</strong> <%= usuario.sede %></p>
+    </div>
+
+    <div class="actions">
+        <a href="/user/constancia" class="btn btn-primary">Generar Constancia</a>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>

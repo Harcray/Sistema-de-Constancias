@@ -1,0 +1,47 @@
+<%- include('../partials/header', { user: user }) %>
+    <div class="admin-dashboard">
+        <h1>Panel de Administración</h1>
+        
+        <% if (typeof success !== 'undefined') { %>
+            <div class="success-message">Datos actualizados correctamente</div>
+        <% } %>
+        
+        <div class="admin-actions">
+            <a href="/admin/upload" class="btn">Subir Datos de Empleados</a>
+            <a href="/admin/dashboard" class="btn">Ver Empleados</a>
+        </div>
+
+        <div class="verify-constancia">
+            <h2>Verificar Constancia</h2>
+            <input type="text" id="codigo-constancia" placeholder="Ingrese código de constancia">
+            <button id="btn-verificar">Verificar</button>
+            <div id="resultado-verificacion"></div>
+        </div>
+
+        <h2>Lista de Empleados</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Cédula</th>
+                    <th>Cargo</th>
+                    <th>Sede</th>
+                    <th>Fecha Ingreso</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% empleados.forEach(empleado => { %>
+                    <tr>
+                        <td><%= empleado.nombre %></td>
+                        <td><%= empleado.cedula %></td>
+                        <td><%= empleado.cargo %></td>
+                        <td><%= empleado.sede %></td>
+                        <td><%= empleado.fechaIngreso %></td>
+                    </tr>
+                <% }); %>
+            </tbody>
+        </table>
+    </div>
+    
+    <script src="/js/admin.js"></script>
+<%- include('../partials/footer') %>

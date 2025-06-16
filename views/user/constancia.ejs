@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Constancia de Trabajo</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="constancia-container">
+        <img src="/images/banner-superior.png" alt="Banner Superior FUNDABIT" class="banner">
+        
+        <div class="constancia-header">
+            <p>RIF. J-123456789</p>
+            <h1>CONSTANCIA DE TRABAJO</h1>
+        </div>
+        
+        <div class="constancia-content">
+            <p>
+                Quien suscribe, ELIANNA MATOS, titular de la cédula de identidad N° 12.395.234, en su carácter de DIRECTOR (A) de la
+                DIRECCION DE TALENTO HUMANO de la Fundación Bolivariana de Informática y Telemática (FUNDABIT), hace
+                constar que el/la ciudadano (a), <strong><%= constancia.usuario.nombre %></strong>, titular de la cédula de identidad N° <strong><%= constancia.usuario.cedula %></strong> presta sus servicios en esta fundación desde, <strong><%= constancia.usuario.fechaIngreso %></strong> actualmente ejerce el cargo de <strong><%= constancia.usuario.cargo %></strong>
+                en la, <strong><%= constancia.usuario.sede %></strong> devengando una remuneración mensual que se detalla de la siguiente manera:
+            </p>
+            
+            <table class="remuneracion-table">
+                <tr>
+                    <td>SUELDO BASICO</td>
+                    <td><%= constancia.datosLaborales.sueldoBasico.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+                <tr>
+                    <td>PRIMA POR HIJOS</td>
+                    <td><%= constancia.datosLaborales.primaHijos.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+                <tr>
+                    <td>PRIMA DE PROFESIONALIZACION</td>
+                    <td><%= constancia.datosLaborales.primaProfesionalizacion.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+                <tr>
+                    <td>PRIMA POR ANTIGUEDAD</td>
+                    <td><%= constancia.datosLaborales.primaAntiguedad.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+                <tr>
+                    <td>PRIMA ASISTENCIAL Y DEL HOGAR</td>
+                    <td><%= constancia.datosLaborales.primaAsistencial.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+                <tr>
+                    <td>PRIMA TRABAJADORES ADM Y OBR</td>
+                    <td><%= constancia.datosLaborales.primaTrabajadores.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+                <tr class="total-row">
+                    <td>Total, Mensual</td>
+                    <td><%= constancia.datosLaborales.totalMensual.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></td>
+                </tr>
+            </table>
+            
+            <p>
+                Adicionalmente el/la trabajador (a) antes mencionado (a) percibe mensualmente por concepto de Bono de Alimentación, un monto de <strong><%= constancia.datosLaborales.bonoAlimentacion.toLocaleString('es-VE', { style: 'currency', currency: 'VES' }) %></strong>
+            </p>
+            
+            <p>
+                Constancia que expide a petición de parte interesada en Caracas, a los <strong><%= fechaActual %></strong>
+            </p>
+            
+            <div class="firma-section">
+                <p>Elianna Matos</p>
+                <img src="/images/firma-director.png" alt="Firma Digital" class="firma">
+                <p>Director (a) Talento Humano FUNDABIT</p>
+                <p>Nombramiento N° 0051 de fecha 01/01/2025</p>
+            </div>
+            
+            <div class="nota">
+                <p>
+                    Nota: Esta constancia tiene vigencia de dos (02) meses. Para verificar esta información comunicarse con la Oficina de Talento Humano, edificio del Ministerio del Poder Popular para la Educación, piso 13, Teléfonos: 0212 506-88-74
+                </p>
+                <p class="codigo-constancia">
+                    <strong>Código de verificación:</strong> <%= constancia.codigo %>
+                </p>
+            </div>
+        </div>
+        
+        <img src="/images/banner-inferior.png" alt="Banner Inferior FUNDABIT" class="banner">
+        
+        <div class="constancia-actions no-print">
+            <button onclick="window.print()" class="btn">Imprimir Constancia</button>
+            <a href="/user/dashboard" class="btn">Volver al Dashboard</a>
+        </div>
+    </div>
+</body>
+</html>
