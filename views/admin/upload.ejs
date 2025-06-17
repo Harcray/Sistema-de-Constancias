@@ -1,0 +1,30 @@
+<!-- views/admin/upload.ejs -->
+<%- include('../partials/header') %>
+
+<div class="admin-upload">
+    <h1>Subir Datos de Empleados</h1>
+    
+    <% if (typeof error !== 'undefined') { %>
+        <div class="alert alert-danger">
+            <% if (error === '1') { %>
+                No se seleccionó ningún archivo.
+            <% } else if (error === '2') { %>
+                Error al procesar el archivo Excel.
+            <% } %>
+        </div>
+    <% } %>
+
+    <form action="/admin/upload" method="POST" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="excelFile">Seleccione archivo Excel:</label>
+            <input type="file" id="excelFile" name="excelFile" accept=".xlsx,.xls" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Subir Archivo</button>
+    </form>
+
+    <div class="mt-4">
+        <a href="/admin/dashboard" class="btn btn-secondary">Volver al Panel</a>
+    </div>
+</div>
+
+<%- include('../partials/footer') %>
