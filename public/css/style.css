@@ -10,12 +10,13 @@
 
 .banner {
     width: 100%;
+    max-width: 1000px;
     display: block;
     margin: 0 auto 5px;
 }
 
 .constancia-header {
-    text-align: center;
+    text-align: justify;
     margin: 5px 0;
 }
 
@@ -28,14 +29,15 @@
 .constancia-content {
     margin: 10px 0;
     font-size: 14px;
-    text-align: center;
+    text-align: justify;
 }
 
 .remuneracion-table {
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
-    margin: 5px 0;
+    margin: 5px 0 0 70px;
     font-size: 13px;
+    text-align: center;
 }
 
 .remuneracion-table td {
@@ -48,14 +50,23 @@
     background-color: #f5f5f5;
 }
 
+.remuneracion-table td:first-child {
+    width: 55%; 
+}
+
 .firma-section {
-    margin: 0px;
+    margin: 5px 0;
     text-align: center;
+    line-height: 0.6;
 }
 
 .firma-section img {
     height: 50px;
     margin: 5px 0;
+}
+
+.firma-section .firma {
+    margin-top: 5px; 
 }
 
 .nota {
@@ -66,7 +77,7 @@
 }
 
 .constancia-actions {
-    margin: 2px 0;
+    margin: 5px 0;
     text-align: center;
 }
 
@@ -77,13 +88,13 @@
     }
     
     body {
-        margin: 10px !important;
-        padding: 10px !important;
+        margin: 0 !important;
+        padding: 0 !important;
         font-size: 12pt;
     }
     
     .constancia-container {
-        width: 96% !important;
+        width: 100% !important;
         margin: 0 !important;
         padding: 10px !important;
         max-width: none !important;

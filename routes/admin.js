@@ -47,7 +47,12 @@ router.post('/upload', upload.single('excelFile'), (req, res) => {
         const sheetName = workbook.SheetNames[0];
         const worksheet = workbook.Sheets[sheetName];
         const jsonData = XLSX.utils.sheet_to_json(worksheet);
-
+         
+        if (jsonData.length === 0) {
+            fs.unlinkSync(req.file.path);
+            return res.redirect('/admin/upload?error=3');
+             }
+             
         // Procesar datos y guardar en empleados.json
         const empleados = jsonData.map(emp => ({
             id: emp.ID || Date.now(),
