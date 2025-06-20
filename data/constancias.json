@@ -5080,5 +5080,1013 @@
       "totalMensual": 6150000,
       "bonoAlimentacion": 257900
     }
+  },
+  {
+    "codigo": "CONST-MC2CO030",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CTKCB",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CTRFJ",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CTXPN",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CUD54",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CUNS0",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CUWR7",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CUZSO",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CV8KF",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CW1DZ",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CW99N",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CWE75",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CWNHM",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CX4BR",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CXDLM",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CXOEC",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2CY15H",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D1CDA",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D1CUL",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D1JPC",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D1N7Y",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D1Q65",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D2XQ5",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D3G1E",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D5MOA",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D6KUQ",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D6S08",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D7BWD",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D7J45",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D7PRK",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D7X91",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D82U9",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2D891R",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DAHHT",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DARH3",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DAYEE",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DB8H5",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DBJIT",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DBOR7",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DBVT4",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DC0BJ",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DC6CR",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2DCANB",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC2LHHJV",
+    "fechaGeneracion": "18/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC4V3C3K",
+    "fechaGeneracion": "20/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC4V8A4B",
+    "fechaGeneracion": "20/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC4VKHHY",
+    "fechaGeneracion": "20/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
+  },
+  {
+    "codigo": "CONST-MC4VNH98",
+    "fechaGeneracion": "20/6/2025",
+    "usuario": {
+      "nombre": "Juan Pérez",
+      "cedula": "12345678",
+      "cargo": "Analista de Sistemas",
+      "sede": "Sede Principal - Caracas"
+    },
+    "datosLaborales": {
+      "fechaIngreso": "15/03/2018",
+      "sueldoBasico": 5000000,
+      "primaHijos": 200000,
+      "primaProfesionalizacion": 300000,
+      "primaAntiguedad": 400000,
+      "primaAsistencial": 150000,
+      "primaTrabajadores": 100000,
+      "totalMensual": 6150000,
+      "bonoAlimentacion": 257900
+    }
   }
 ]

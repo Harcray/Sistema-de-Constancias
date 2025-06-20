@@ -1,32 +1,32 @@
 [
-    {
-        "id": 1,
-        "nombre": "Juan Pérez",
-        "cedula": "12345678",
-        "fechaIngreso": "15/03/2018",
-        "cargo": "Analista de Sistemas",
-        "sede": "Sede Principal - Caracas",
-        "sueldoBasico": 5000000,
-        "primaHijos": 200000,
-        "primaProfesionalizacion": 300000,
-        "primaAntiguedad": 400000,
-        "primaAsistencial": 150000,
-        "primaTrabajadores": 100000,
-        "bonoAlimentacion": 257900
-    },
-    {
-        "id": 2,
-        "nombre": "María Rodríguez",
-        "cedula": "87654321",
-        "fechaIngreso": "10/07/2019",
-        "cargo": "Desarrollador Web",
-        "sede": "Sede Regional - Valencia",
-        "sueldoBasico": 4500000,
-        "primaHijos": 150000,
-        "primaProfesionalizacion": 250000,
-        "primaAntiguedad": 300000,
-        "primaAsistencial": 120000,
-        "primaTrabajadores": 80000,
-        "bonoAlimentacion": 257900
-    }
+  {
+    "id": 3,
+    "nombre": "Ana López",
+    "cedula": "V-12345678",
+    "fechaIngreso": 44941,
+    "cargo": "Docente",
+    "sede": "Caracas",
+    "sueldoBasico": 0,
+    "primaHijos": 0,
+    "primaProfesionalizacion": 0,
+    "primaAntiguedad": 0,
+    "primaAsistencial": 0,
+    "primaTrabajadores": 0,
+    "bonoAlimentacion": 0
+  },
+  {
+    "id": 4,
+    "nombre": "Pedro Martínez",
+    "cedula": "V-87654321",
+    "fechaIngreso": 44701,
+    "cargo": "Coordinador",
+    "sede": "Valencia",
+    "sueldoBasico": 0,
+    "primaHijos": 0,
+    "primaProfesionalizacion": 0,
+    "primaAntiguedad": 0,
+    "primaAsistencial": 0,
+    "primaTrabajadores": 0,
+    "bonoAlimentacion": 0
+  }
 ]

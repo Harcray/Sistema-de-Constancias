@@ -94,7 +94,7 @@
     }
     
     .constancia-container {
-        width: 100% !important;
+        width: 97% !important;
         margin: 0 !important;
         padding: 10px !important;
         max-width: none !important;
@@ -114,6 +114,7 @@
         page-break-inside: avoid;
     }
 }
+
 
 .admin-upload {
     max-width: 600px;

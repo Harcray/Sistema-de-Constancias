@@ -1,18 +1,12 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Constancias - FUNDABIT</title>
-    <link rel="stylesheet" href="/css/header.css">
-</head>
-<body>
-    <header>
-        <% if (user) { %>
-            <nav>
-                <span>Bienvenido, <%= user.username %></span>
-                <a href="/logout">Cerrar sesión</a>
-            </nav>
-        <% } %>
-    </header>
-    <main>
+<header style="background-color: #7cb0e3; padding: 1rem;">
+    <% if (user) { %>
+        <nav style="display: flex; justify-content: center; align-items: center; gap: 2rem;">
+            <span style="color: #ecf0f1; font-weight: 500; font-size: 1.1rem; text-align: center;">
+                Bienvenido, <%= user.username %>
+            </span>
+            <a href="/logout" style="color: #ecf0f1; text-decoration: none; background-color: #e74c3c; padding: 0.5rem 1rem; border-radius: 4px; font-weight: 500;">
+                Cerrar sesión
+            </a>
+        </nav>
+    <% } %>
+</header>
