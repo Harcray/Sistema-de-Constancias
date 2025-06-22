@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; color: #333; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #d9534f; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><%= title %></h1>
+        <p><%= message %></p>
+        <% if (process.env.NODE_ENV === 'development' && error) { %>
+            <pre><%= error.stack %></pre>
+        <% } %>
+        <a href="/">Volver al inicio</a>
+    </div>
+</body>
+</html>
